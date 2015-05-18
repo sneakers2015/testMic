@@ -1,0 +1,14 @@
+button {
+	position: absolute;
+    margin-right: auto;
+    width: 70%;
+    height: 40%;
+	background-color: #ffffff;
+}
+
+h1 {
+	position: absolute;
+	top: 50%;
+    margin-right: auto;
+    background-color: #ffffff;
+}
